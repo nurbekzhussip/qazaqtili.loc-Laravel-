@@ -1,6 +1,7 @@
-The code is based on laravel. This is a small program for residents of Kazakhstan. 2025 Kazakhstan goes to Latin.
+## The code is based on laravel. 
+This is a small program for residents of Kazakhstan. 2025 Kazakhstan goes to Latin.
 
-This is an online conversion site. The program will translate Cyrillic into Latin and back.
+## This is an online conversion site. The program will translate Cyrillic into Latin and back.
 
 the program can read from a document file and translate.(used PHPOffice)- not work
 in the category of alphabets are all alphabets, the Cyrillic and Latin alphabets respectively. each letter has words written in it.
